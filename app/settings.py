@@ -1,0 +1,8 @@
+# # # dev db mongo
+MONGODB_DATABASE = 'db_name'
+# MONGODB_DATABASE = 'test_db_name'
+# MONGODB_HOST = '127.0.0.1'
+MONGODB_HOST = 'IP ADDR'
+# MONGODB_HOST = 'IP ADDR'
+MONGODB_PORT = 27017
+
